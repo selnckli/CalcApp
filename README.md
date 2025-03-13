@@ -47,26 +47,6 @@ Hello everyone! So CalcApp is an Android application that mimics the look and fe
 
 ---
 
-## How to Build and Run
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/CalcApp.git
-   cd CalcApp
-   ```
-
-2. **Open the Project in Android Studio:**  
-   Open Android Studio, then select "Open an Existing Project" and navigate to the cloned repository.
-
-3. **Build the Project:**  
-   Click on **Build** > **Make Project**. Resolve any dependencies if prompted.
-
-4. **Run the App:**  
-   Connect an Android device or start an emulator, then click the **Run** button (green triangle). The app will launch, showing the iOS-style calculator interface.
-
----
-
 ## Code Explanation
 
 - **UI Implementation:**  
@@ -78,3 +58,7 @@ Hello everyone! So CalcApp is an Android application that mimics the look and fe
   - Pressing an operator stores the current input as the first operand and waits for the next number.
   - Pressing equals computes the result based on the stored operator and operands.
   - Additional buttons handle clearing input (AC), toggling the sign (+/-), and converting the number to a percentage (%).
+
+---
+
+Have a nice day! <3 
