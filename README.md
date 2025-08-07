@@ -1,13 +1,13 @@
 # CalcApp Calculator
 
-Hello everyone! So CalcApp is an Android application that mimics the look and feel of the iPhone calculator. It features a beautifully designed user interface built with XML and implements basic arithmetic operations using Java.
+CalcApp is an Android application that mimics the look and feel of the iPhone calculator. It features a nice UI built with XML and implements basic arithmetic operations using Java.
 
 ---
 
 ## Features
 
 - **iOS-Inspired UI:**  
-  - Clean, modern design with a black background.
+  - Clean design with a black background.
   - Rounded buttons with custom colors:
     - **Light gray** for functions (AC, +/-, %).
     - **Dark gray** for numbers.
@@ -41,7 +41,7 @@ Hello everyone! So CalcApp is an Android application that mimics the look and fe
 
 ## Requirements
 
-- Android Studio (latest version recommended)
+- Android Studio
 - Java
 - Android SDK
 
